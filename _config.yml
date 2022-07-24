@@ -6,7 +6,7 @@
 name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Students
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:11911519@mail.sustech.edu.cn
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/Timetravel-0-Titor
   instagram:
   linkedin:
   pinterest:
